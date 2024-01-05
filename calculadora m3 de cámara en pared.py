@@ -70,8 +70,5 @@ for operacion in operaciones:
 print(f"\n  >> Total de metros cúbicos de todas las paredes: {total_metros} metros <<")
 print()
 print()
-print("Teniendo en cuenta que cada m3 de bolas EPS son a 75€ con IVA y no es posible comprar cantidades inferiores al metro, \ndebemos redondear los metros al siguiente número por lo que el coste total de insuflar las paredes indicadas sería",coste_total,"€")
-print()
-print()
 finalizar = input("Para salir pulsa cualquier tecla > ")
 
