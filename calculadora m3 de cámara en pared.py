@@ -72,7 +72,3 @@ print(f"\n  >> Total de metros cúbicos de todas las paredes: {total_metros} met
 print()
 print()
 finalizar = input("Para salir pulsa cualquier tecla > ")
-
-
-
-Esta es la modificación que vamos a hacer. 
